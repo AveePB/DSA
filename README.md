@@ -1,8 +1,15 @@
-# LeetCode
-Set of solutions for algorithms and data structure problems
+# DSA
 
-## Description
-This repository stores sets of programming projects, enabling students to expand their knowledge. I've created this to review popular problems and bolster my skills before college.
+This repository is a curated collection of **data structures and algorithms** used in competitive programming and technical interviews.
 
-## Structure
-Each problem has its own folder and is sorted by difficulty level. Solutions are provided in a clear and ready-to-paste format.
+### What does it include?
+- Algorithmic problems from platforms such as **Szkopuł**, **LeetCode**, and **Codeforces**
+- Implementations of classic and advanced **algorithms**
+- Implementations of common **data structures**
+- Various **problem-solving techniques** (e.g. greedy, DP, graph algorithms)
+- Solutions written in **multiple programming languages**
+
+### What's the goal ?
+- A personal knowledge base
+- A reference for common patterns and techniques
+- A practice ground for competitive programming and Olympiad-style problems
